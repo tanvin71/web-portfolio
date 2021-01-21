@@ -44,7 +44,8 @@ section{
 }
 h2 {
     font-size: 40px;
-    margin-top: 20px;
+    margin: 20px 0;
+
 }
 .dream-area {
     background: url("images/dream-bg.png");
